@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
- 
+[Rock Paper Scissors Python](https://github.com/Scowens712/RockPaperScissorsPython/tree/main)
 
 <h2> 📜Certifications:</h2>
 
