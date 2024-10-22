@@ -8,6 +8,7 @@
 
 **CompTIA Security+**
 
+**CompTIA Network+**
 
 **CompTIA CySA+**
 
