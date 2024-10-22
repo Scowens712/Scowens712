@@ -4,6 +4,10 @@
 
 [Rock Paper Scissors Python](https://github.com/Scowens712/RockPaperScissorsPython/tree/main)
 
+<h2>👨‍💻 IT/Cybersecurity Projects :</h2>
+
+
+
 <h2> 📜Certifications:</h2>
 
 **CompTIA Security+**
